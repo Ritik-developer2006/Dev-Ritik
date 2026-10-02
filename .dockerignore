@@ -1,0 +1,10 @@
+.git
+.gitignore
+.github
+.env
+.env.*
+node_modules
+vendor
+Dockerfile
+docker-compose.yml
+database.sql
